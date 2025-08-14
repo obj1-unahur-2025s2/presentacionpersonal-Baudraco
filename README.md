@@ -2,7 +2,7 @@
 
 # Programación con objetos I
 ## Presentación Personal
-![Logo UNAHUR](./.png)
+![Logo UNAHUR](./cara640x480.png)
 ## Mi nombre es Pablo Hernán Baudraco
 Soy de Hurlingham, tengo 47 años y terminé hace mucho, pero mucho tiempo el nivel secundario, allá por el año 1999 en el centro educativo (CENS) nro. 451, con el título obtenido de “Perito en desarrollo de comunidades”. Por diferentes razones de la vida y por priorizar el trabajo antes que la educación, terminé en una escuela para adultos. Después de algunos intentos fallidos por distintas universidades, abandoné mi etapa como estudiante.
 Tengo una familia maravillosa: María mi esposa, tiene 39 años y de profesión protesista dental; tenemos dos hermosos hijos, Bautista Ezequiel de 15 años, que estudia el 4 año del nivel secundario en el colegio Sagrado Corazón de Jesús en Hurlingham y Catalina Guadalupe de 5 años, que esta en su ultimo año del nivel inicial en el jardín Estrella de Belén de la misma localidad.
