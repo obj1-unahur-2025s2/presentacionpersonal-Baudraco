@@ -9,6 +9,7 @@ Tengo una familia maravillosa: María mi esposa, tiene 39 años y de profesión 
 Trabajo actualmente en Sancor cooperativas unidas limitada en la localidad de Don Torcuato, hace 19 años que me desempeño como soporte de TI en el departamento de sistemas en el turno de la noche y brindamos el soporte para todas las sucursales del país. Salvo por algunos pormenores me apasiona mi trabajo y es más o menos a lo que siempre me dedique: arreglos de PC, instalaciones de software, instalaciones de sistemas operativos, el mantenimiento y control de todos recursos informáticos de la empresa en general. En estos momentos me siento un poco estancado con el trabajo en cuanto al crecimiento profesional y esa es una de las razones por la cual me decidí a estudiar programación. La otra es porque me encanta programar y me gustaría poder hacerlo profesionalmente.
 Me sentía un poco aterrado con la idea de volver a empezar, por mi edad y por los intentos anteriores que me dejaron medio traumado, es como que dude mucho de volverlo a hacer. Pero decidí seguir el consejo de mi esposa y así conocí a la universidad de Hurlingham lo que más me atrajo de la Unahur es la calidad humana con la que te reciben y el trato cordial por parte de todos. 
 
+![Logo UNAHUR](./Hijos640x480.jpg)
 ### Que espero...
 - Este no es mi primer contacto con github tengo perfil de hace unos años pero muy poca experiencia en usarlo
 - Me gustaría mucho poder aprender estas herramientas para poder fortalecer mi educación profesional
