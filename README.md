@@ -12,7 +12,7 @@ Me sentía un poco aterrado con la idea de volver a empezar, por mi edad y por l
 ![Fotos_1](./Hijos640x480.jpg)
 ![Foto_2](./20250712_181015.jpg)
 
-### Que espero...
+### Que espero....
 - Este no es mi primer contacto con github tengo perfil de hace unos años pero muy poca experiencia en usarlo
 - Me gustaría mucho poder aprender estas herramientas para poder fortalecer mi educación profesional
 
